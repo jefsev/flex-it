@@ -58,7 +58,7 @@
             flex-wrap: nowrap;  
     }  
 
-    /* Justify-content horizontal
+    /* Justify-content
          ========*/
 
     .f-just-start {
@@ -95,7 +95,7 @@
             justify-content: space-around; 
     }  
 
-    /* Align-items vertical
+    /* Align-items
          ========*/    
 
     .f-align-start {
