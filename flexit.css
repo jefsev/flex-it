@@ -89,11 +89,6 @@
         -ms-flex-pack: distribute;
             justify-content: space-around; 
     }  
-      
-    .f-just-around {
-        -ms-flex-pack: distribute;
-            justify-content: space-around; 
-    }  
 
     /* Align-items
          ========*/    
